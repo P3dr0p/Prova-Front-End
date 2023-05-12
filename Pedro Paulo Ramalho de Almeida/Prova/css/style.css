@@ -1,0 +1,109 @@
+.titulo{   
+    position:  absolute;
+    right: 1120px;
+    line-height: 8px;
+}
+
+ul, nav, li, a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 8px;
+    
+    
+    gap: 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.foto1{
+    position:  absolute;
+    left: 340px;
+    right: 1300px;
+}
+
+.foto2{
+    position:  absolute;
+    left: 980px;
+    right: 0px;
+}
+
+.foto3{
+    position:  absolute;
+    left: 340px;
+    bottom: -502px;
+}
+
+.foto4{
+    position:  absolute;
+    left: 660px;
+    bottom: -502px;
+}
+
+.foto5{
+    position:  absolute;
+    left: 980px;
+    bottom: -502px;
+}
+
+.foto6{
+    position:  absolute;
+    left: 1300px;
+    bottom: -502px;
+}
+
+.foto7{
+    position:  absolute;
+    left: 340px;
+    bottom: -1202px;
+}
+
+.foto8{
+    position:  absolute;
+    left: 768px;
+    bottom: -1202px;
+}
+
+.foto9{
+    position:  absolute;
+    left: 1196px;
+    bottom: -1202px;
+}
+
+footer{
+    position: absolute;
+    
+    width: 1280px;
+    height: 160px;
+    left: 340px;
+    right: 0px;
+    bottom: -1305px;
+    
+    background-color: black;
+}
+
+.Vestido{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.direitos{
+    position: absolute;
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+    left: 10px;
+    bottom: 8px;
+}
+
+.Log{
+    position: absolute;
+    
+    justify-content: center;
+    background-color: white;
+}
